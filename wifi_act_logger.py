@@ -113,8 +113,7 @@ def packetHandler(pkt):
 
 
 def DBConncetor():
-    con = pymysql.connect('localhost', 'root', 'lll22013', 'mac_add_passes', autocommit=True)
-
+    con = pymysql.connect('192.168.5.51', 'pete', 'lll22013', 'probe_station', autocommit=True)
     cur = con.cursor()
 
     cur.execute("CREATE TABLE IF NOT EXISTS mac_add_data(mac_add TEXT, vendor TEXT, rssi INT, date TIMESTAMP)")
