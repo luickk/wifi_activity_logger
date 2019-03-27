@@ -120,12 +120,12 @@ def packetHandler(pkt):
     if not inDevices:
         devices.append(mac_address)
 
-    saveToDB(mac_address, vendor, ssid, rssi_val, cursor)
+    saveToDB(mac_address, vendor, ssid, rssi_val)
     statusWidget(len(devices))
     last_mac_add = mac_address
 
 
-def saveToDB(mac_add, vendor, ssid, rssi, cursor):
+def saveToDB(mac_add, vendor, ssid, rssi):
     mac_ignore = ['74:da:38:7e:d1:c1']
     try:
         if mac_add not in mac_ignore:
