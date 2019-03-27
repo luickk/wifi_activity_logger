@@ -18,6 +18,19 @@ monitor_iface = "wlan0mon"
 alreadyStopping = False
 last_mac_add = ""
 
+
+def DBConncetor():
+    con = pymysql.connect('192.168.5.51', 'pete', 'lll22013', 'probe_station', autocommit=True)
+    cur = con.cursor()
+
+    cur.execute("CREATE TABLE IF NOT EXISTS mac_add_data(mac_add TEXT, vendor TEXT, rssi INT, date TIMESTAMP)")
+    cur.execute("CREATE TABLE IF NOT EXISTS mac_add_ssids(mac_add TEXT, ssids TEXT)")
+
+    return cur
+
+
+cursor = DBConncetor()
+
 def main():
     print("[I] Starting channelhopper")
     chopper = threading.Thread(target=chopping)
@@ -107,25 +120,15 @@ def packetHandler(pkt):
     if not inDevices:
         devices.append(mac_address)
 
-    saveToDB(mac_address, vendor, ssid, rssi_val)
+    saveToDB(mac_address, vendor, ssid, rssi_val, cursor)
     statusWidget(len(devices))
     last_mac_add = mac_address
 
 
-def DBConncetor():
-    con = pymysql.connect('192.168.5.51', 'pete', 'lll22013', 'probe_station', autocommit=True)
-    cur = con.cursor()
-
-    cur.execute("CREATE TABLE IF NOT EXISTS mac_add_data(mac_add TEXT, vendor TEXT, rssi INT, date TIMESTAMP)")
-    cur.execute("CREATE TABLE IF NOT EXISTS mac_add_ssids(mac_add TEXT, ssids TEXT)")
-
-    return cur
-
-def saveToDB(mac_add, vendor, ssid, rssi):
+def saveToDB(mac_add, vendor, ssid, rssi, cursor):
     mac_ignore = ['74:da:38:7e:d1:c1']
     try:
         if mac_add not in mac_ignore:
-            cursor = DBConncetor()
             formated_time = time.strftime('%Y-%m-%d %H-%M-%S')
             cursor.execute("INSERT INTO mac_add_data (mac_add, vendor, rssi, date) VALUES (%s, %s, %s, %s)", (str(mac_add), str(vendor), int(rssi), formated_time))
             if not ssid =="SSID: ":
