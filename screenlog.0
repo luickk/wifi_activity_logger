@@ -1,0 +1,246 @@
+/usr/local/lib/python3.5/dist-packages/pymysql/cursors.py:170: Warning: (1050, "Table 'mac_add_data' already exists")
+  result = self._query(query)
+/usr/local/lib/python3.5/dist-packages/pymysql/cursors.py:170: Warning: (1050, "Table 'mac_add_ssids' already exists")
+  result = self._query(query)
+[W] Make sure to use an interface in monitor mode!
+
+[I] Loading MAC database
+[I] Starting channelhopper
+
+[I] Sniffing started!
+
+Devices found: [0]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-88-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-95-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-88 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-87-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-88-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-95 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-95-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-94 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [1]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [1]a0:6f:aa:0a:9a:67 (LgInnote)-90-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne 
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-94 ==> Sonne
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-88-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [2]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [2]dc:56:e7:e5:7a:5c (Apple)-82-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-89 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-89-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-94 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-95 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-95-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-96-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-90-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-89 ==> Sonne
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [3]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [3]Devices found: [4]Devices found: [4]Devices found: [4]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne 
+Devices found: [4]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [4]Devices found: [4]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne
+Devices found: [4]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [4]00:27:15:10:e4:65 (ReboundT)-88-no-ssid
+Devices found: [4]00:27:15:10:e4:65 (ReboundT)-93 ==> Sonne 
+Devices found: [4]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [4]84:a6:c8:6c:74:c4 (IntelCor)-91-no-ssid
+Devices found: [5]84:a6:c8:6c:74:c4 (IntelCor)-87 ==> FRITZ!Box 7560 TW
+Devices found: [5]84:a6:c8:6c:74:c4 (IntelCor)-86-no-ssid
+Devices found: [5]84:a6:c8:6c:74:c4 (IntelCor)-86 ==> FRITZ!Box 7560 TW
+Devices found: [5]84:a6:c8:6c:74:c4 (IntelCor)-87-no-ssid
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-94 ==> Sonne 
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-95 ==> Sonne 
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-94 ==> Sonne 
+Devices found: [5]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [5]54:60:09:47:34:ce (Google)-84 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-82 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-84 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-78 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-80 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-76 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-76 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-77 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-77 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-76 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-76-no-ssid
+Devices found: [6]54:60:09:47:34:ce (Google)-75-no-ssid
+Devices found: [6]54:60:09:47:34:ce (Google)-76-no-ssid
+Devices found: [6]54:60:09:47:34:ce (Google)-77-no-ssid
+Devices found: [6]54:60:09:47:34:ce (Google)-75 ==> Chaoszentrale
+Devices found: [6]54:60:09:47:34:ce (Google)-75-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-89 ==> Sonne 
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-88-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-91-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-95 ==> Sonne 
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-94-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-91 ==> Sonne 
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-93-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-90 ==> Sonne
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-92-no-ssid
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-92 ==> Sonne 
+Devices found: [6]00:27:15:10:e4:65 (ReboundT)-89 ==> Sonne
+Devices found: [6]f4:f5:d8:f5:61:f8 (Google)-93 ==> EasyBox-444446
+Traceback (most recent call last):
+  File "/home/pi/probeSnifferMon/wifi_act_logger.py", line 150, in <module>
+    main()
+  File "/home/pi/probeSnifferMon/wifi_act_logger.py", line 44, in main
+    capture.apply_on_packets(packetHandler)
+  File "/usr/local/lib/python3.5/dist-packages/pyshark/capture/capture.py", line 248, in apply_on_packets
+    return self.eventloop.run_until_complete(coro)
+  File "/usr/lib/python3.5/asyncio/base_events.py", line 466, in run_until_complete
+    return future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 293, in result
+    raise self._exception
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 239, in _step
+    result = coro.send(None)
+  File "/usr/local/lib/python3.5/dist-packages/pyshark/capture/capture.py", line 259, in packets_from_tshark
+    await self._go_through_packets_from_fd(tshark_process.stdout, packet_callback, packet_count=packet_count)
+  File "/usr/local/lib/python3.5/dist-packages/pyshark/capture/capture.py", line 285, in _go_through_packets_from_fd
+    packet_callback(packet)
+  File "/home/pi/probeSnifferMon/wifi_act_logger.py", line 123, in packetHandler
+    saveToDB(mac_address, vendor, ssid, rssi_val)
+  File "/home/pi/probeSnifferMon/wifi_act_logger.py", line 141, in saveToDB
+    cursor.execute("UPDATE mac_add_ssids SET ssids = CONCAT(ssids, %s) WHERE mac_add = %s", (str(','+ssid), str(mac_add)))
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.5/dist-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'ssids' at row 5")

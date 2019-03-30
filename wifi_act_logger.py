@@ -133,12 +133,18 @@ def saveToDB(mac_add, vendor, ssid, rssi):
             cursor.execute("INSERT INTO mac_add_data (mac_add, vendor, rssi, date) VALUES (%s, %s, %s, %s)", (str(mac_add), str(vendor), int(rssi), formated_time))
             if not ssid =="SSID: ":
                 print(mac_add + " (" + vendor + ")" + str(rssi) + " ==> " + ssid)
-                cursor.execute("SELECT mac_add FROM mac_add_ssids WHERE mac_add=%s", str(mac_add))
+                cursor.execute("SELECT ssids FROM mac_add_ssids WHERE mac_add=%s", str(mac_add))
                 res = cursor.fetchone()
+                print("Res: ", res)
                 if res == None:
+                    print('MYSQL -> inserted')
                     cursor.execute("INSERT INTO mac_add_ssids (mac_add, ssids) VALUES (%s, %s)", (str(mac_add), str(ssid)))
                 else:
-                    cursor.execute("UPDATE mac_add_ssids SET ssids = CONCAT(ssids, %s) WHERE mac_add = %s", (str(','+ssid), str(mac_add)))
+                    if not ssid in res:
+                        print('MYSQL -> updated')
+                        cursor.execute("UPDATE mac_add_ssids SET ssids = CONCAT(ssids, %s) WHERE mac_add = %s", (str(','+ssid), str(mac_add)))
+                    else:
+                        print('MYSQL -> already existant')
             else:
                 print(mac_add + " (" + vendor + ")" + str(rssi) + "-no-ssid")
 
