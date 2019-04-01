@@ -2,6 +2,8 @@
 
 The WifiActivity Logger is a Python Script which monitors, progresses and eventually saves incoming Probe Requests in a mysql Database.
 
+*This could easily be utilized as passive surveillance unit and shows just how simple the abuse of Probe requests is still possible!*
+
 ## Setup
 
 #### Raspberry Preperation
